@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Javascript and a lil of FrontEnd Dev.
+- 👀 I’m interested in BackEnd Development
+- 🌱 Dying solving algos
 
 <!---
 ank1tt/ank1tt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
